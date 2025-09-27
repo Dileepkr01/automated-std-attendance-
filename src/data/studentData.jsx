@@ -5,7 +5,7 @@ export const studentData = {
     { subject: "Physics", attended: 35, total: 40 },
     { subject: "Chemistry", attended: 28, total: 42 },
     { subject: "Biology", attended: 40, total: 42 },
-    { subject: "English", attended: 25, total: 35 },
+    { subject: "English", attended: 26, total: 35 },
     { subject: "History", attended: 32, total: 35 },
   ],
   monthlyTrends: [
