@@ -1,5 +1,5 @@
 export const studentData = {
-  name: "Dileep Kumar",
+  name: "Students",
   attendance: [
     { subject: "Mathematics", attended: 38, total: 45 },
     { subject: "Physics", attended: 35, total: 40 },
